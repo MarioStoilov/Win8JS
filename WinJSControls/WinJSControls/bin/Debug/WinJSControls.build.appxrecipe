@@ -7,44 +7,41 @@
     <PackageArchitecture>neutral</PackageArchitecture>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\default.html">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\default.html">
       <PackagePath>default.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\images\logo.png">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\js\default.js">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\js\CalculatorControl.js">
+      <PackagePath>js\CalculatorControl.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\js\default.js">
       <PackagePath>js\default.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\js\primesCalculator.js">
-      <PackagePath>js\primesCalculator.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\js\primesWorker.js">
-      <PackagePath>js\primesWorker.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\css\default.css">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

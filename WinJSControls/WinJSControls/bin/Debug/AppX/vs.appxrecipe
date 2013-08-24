@@ -5,64 +5,60 @@
     <WindowsUser>Mario</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>A662F5F8F10B8DF7C159BE2D74C13AFF2AF6BD0A9E2EA7B5C5F428E86585D3B4</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>44839f5d-92f5-45e2-aff6-1f2d24b28f6a_1.0.0.0_neutral__nvpp015mgadm0</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>44839f5d-92f5-45e2-aff6-1f2d24b28f6a_nvpp015mgadm0!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>44839f5d-92f5-45e2-aff6-1f2d24b28f6a</RegisteredPackageID>
+    <RegisteredManifestChecksum>E088D791B683EF47FFAC634F0F7F9BA4C5C1121E0F66916E5D9F36B1ABDE6A47</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>54a04bce-9500-4f67-8bd5-a266ef71a6d6_1.0.0.0_neutral__nvpp015mgadm0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>54a04bce-9500-4f67-8bd5-a266ef71a6d6_nvpp015mgadm0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>54a04bce-9500-4f67-8bd5-a266ef71a6d6</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=Mario</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-08-24T13:04:33.652</Modified>
+      <Modified>2013-08-24T14:26:08.338</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\default.html">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2013-08-24T13:30:16.270</Modified>
+      <Modified>2013-08-24T15:01:51.532</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\images\logo.png">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-01-27T22:25:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-01-27T22:25:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-01-27T22:25:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-01-27T22:25:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\js\default.js">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\js\CalculatorControl.js">
+      <PackagePath>js\CalculatorControl.js</PackagePath>
+      <Modified>2013-08-24T15:07:18.934</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2013-08-24T13:44:57.546</Modified>
+      <Modified>2012-12-30T16:37:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\js\primesCalculator.js">
-      <PackagePath>js\primesCalculator.js</PackagePath>
-      <Modified>2013-08-24T13:44:20.902</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\js\primesWorker.js">
-      <PackagePath>js\primesWorker.js</PackagePath>
-      <Modified>2013-08-24T13:02:21.495</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\css\default.css">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\css\default.css">
       <PackagePath>css\default.css</PackagePath>
       <Modified>2013-01-27T22:25:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSControls\WinJSControls\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-08-24T13:04:33.509</Modified>
+      <Modified>2013-08-24T14:26:08.250</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

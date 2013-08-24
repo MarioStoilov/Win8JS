@@ -24,3 +24,16 @@ D:\Solutions\AsyncWorkers\AsyncWorkers\bld\Debug\resources.resfiles
 D:\Solutions\AsyncWorkers\AsyncWorkers\bld\Debug\pri.resfiles
 D:\Solutions\AsyncWorkers\AsyncWorkers\bld\Debug\LanguageQualifiers.txt
 D:\Solutions\AsyncWorkers\AsyncWorkers\bld\Debug\ProjectArchitectures.txt
+C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bin\Debug\resources.pri
+C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bin\Debug\AppxManifest.xml
+C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bin\Debug\AsyncWorkers.build.appxrecipe
+C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bld\Debug\priconfig.xml.intermediate
+C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bld\Debug\layout.resfiles.intermediate
+C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bld\Debug\resources.resfiles.intermediate
+C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bld\Debug\pri.resfiles.intermediate
+C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bld\Debug\priconfig.xml
+C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bld\Debug\layout.resfiles
+C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bld\Debug\resources.resfiles
+C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bld\Debug\pri.resfiles
+C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bld\Debug\LanguageQualifiers.txt
+C:\Users\Mario\Documents\GitHub\Win8JS\AsyncWorkers\AsyncWorkers\bld\Debug\ProjectArchitectures.txt
