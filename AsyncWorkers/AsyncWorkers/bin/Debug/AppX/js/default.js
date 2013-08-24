@@ -13,7 +13,7 @@
     app.onactivated = function (args)
     {
         
-        primesCalculator = new PrimesCalculator();
+        primesCalculator = new LocalNameSpace.PrimesCalculator();
         var calculatePrimesButton = document.getElementById("calculate-primes");
         var primesFirstInput = document.getElementById("primes-first");
         var primesLastInput = document.getElementById("primes-last");

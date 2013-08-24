@@ -46,11 +46,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Solutions\AsyncWorkers\AsyncWorkers\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2013-08-24T13:30:44.195</Modified>
+      <Modified>2013-08-24T13:44:35.053</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Solutions\AsyncWorkers\AsyncWorkers\js\primesCalculator.js">
       <PackagePath>js\primesCalculator.js</PackagePath>
-      <Modified>2013-08-24T13:32:36.536</Modified>
+      <Modified>2013-08-24T13:44:20.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Solutions\AsyncWorkers\AsyncWorkers\js\primesWorker.js">
       <PackagePath>js\primesWorker.js</PackagePath>
