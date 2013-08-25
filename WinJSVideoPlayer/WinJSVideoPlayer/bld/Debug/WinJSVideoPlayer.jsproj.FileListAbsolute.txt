@@ -1,0 +1,9 @@
+D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bin\Debug\resources.pri
+D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bin\Debug\AppxManifest.xml
+D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bin\Debug\WinJSVideoPlayer.build.appxrecipe
+D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\priconfig.xml
+D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\layout.resfiles
+D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\resources.resfiles
+D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\pri.resfiles
+D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\LanguageQualifiers.txt
+D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\ProjectArchitectures.txt
