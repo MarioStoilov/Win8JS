@@ -14,6 +14,7 @@
         var player = document.getElementById("player");
         var playlist = new Windows.Media.Playlists.Playlist();
         var selectedVideoIndex = -1;
+        var storagePermissions = Windows.Storage.AccessCache.StorageApplicationPermissions;
 
         loadedSongsList.addEventListener("click", function (event)
         {
@@ -67,7 +68,8 @@
 
             storageFile.properties.getVideoPropertiesAsync().then(function (properties)
             {
-                playlist.files.append(storageFile); 
+                playlist.files.append(storageFile);
+                storagePermissions.futureAccessList.add(storageFile);
                 RedrawPlaylist();
             });
             
@@ -128,10 +130,11 @@
             openPicker.fileTypeFilter.append(".wpl");
             openPicker.pickSingleFileAsync().then(function (file)
             {
-                //Windows.Media.Playlists.Playlist.loadAsync(item).then(function (playlist)
-                //{
-                //    // Print the name of the playlist.
-                //});
+                Windows.Media.Playlists.Playlist.loadAsync(file).then(function (loadedPlaylist)
+                {
+                    playlist = loadedPlaylist;
+                    RedrawPlaylist();
+                });
             });
 
         })

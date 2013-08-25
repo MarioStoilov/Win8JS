@@ -5,7 +5,7 @@
     <WindowsUser>Mario</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>6711AED81997E42E74913968925267C289CA2CDE18AC1EFE094170AFAD7455C3</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>A52B7471D590238A04E0A34215BAC4D7AB8AAC27B58F7F51931A77DD38B23CD3</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>72a67cb3-d120-49ba-a5ed-aa777feaff9b_1.0.0.0_neutral__nvpp015mgadm0</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>72a67cb3-d120-49ba-a5ed-aa777feaff9b_nvpp015mgadm0!App</RegisteredUserModeAppID>
     <RegisteredPackageID>72a67cb3-d120-49ba-a5ed-aa777feaff9b</RegisteredPackageID>
@@ -16,7 +16,7 @@
     <AppXManifest Include="D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-08-25T12:49:03.479</Modified>
+      <Modified>2013-08-25T19:59:15.718</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -46,7 +46,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2013-08-25T12:47:26.050</Modified>
+      <Modified>2013-08-25T20:04:13.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\css\default.css">
       <PackagePath>css\default.css</PackagePath>
@@ -54,7 +54,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-08-25T12:49:03.221</Modified>
+      <Modified>2013-08-25T19:59:15.360</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
