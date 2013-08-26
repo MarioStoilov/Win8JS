@@ -5,56 +5,64 @@
     <WindowsUser>Mario</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>A52B7471D590238A04E0A34215BAC4D7AB8AAC27B58F7F51931A77DD38B23CD3</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>72a67cb3-d120-49ba-a5ed-aa777feaff9b_1.0.0.0_neutral__nvpp015mgadm0</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>72a67cb3-d120-49ba-a5ed-aa777feaff9b_nvpp015mgadm0!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>72a67cb3-d120-49ba-a5ed-aa777feaff9b</RegisteredPackageID>
+    <RegisteredManifestChecksum>8A2C414DBBD19057210D300FBB41387B84BB2A8498F7BEB4531BE2C36D12AF34</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>412cf299-2196-451f-9af3-d0dc3b9c43e4_1.0.0.0_neutral__nvpp015mgadm0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>412cf299-2196-451f-9af3-d0dc3b9c43e4_nvpp015mgadm0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>412cf299-2196-451f-9af3-d0dc3b9c43e4</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=Mario</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="D:\Solutions\WinJsStorage\WinJsStorage\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-08-25T19:59:15.718</Modified>
+      <Modified>2013-08-26T07:58:15.754</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\default.html">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2013-08-25T10:13:11.771</Modified>
+      <Modified>2013-08-26T08:11:46.809</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\images\logo.png">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-01-27T22:25:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\images\smalllogo.png">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-01-27T22:25:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\images\splashscreen.png">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-01-27T22:25:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\images\storelogo.png">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-01-27T22:25:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\js\default.js">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2013-08-25T20:04:13.477</Modified>
+      <Modified>2013-08-26T10:46:08.050</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\css\default.css">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\js\primesCalculator.js">
+      <PackagePath>js\primesCalculator.js</PackagePath>
+      <Modified>2013-08-26T10:54:39.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\js\primesWorker.js">
+      <PackagePath>js\primesWorker.js</PackagePath>
+      <Modified>2013-08-24T13:02:21.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\css\default.css">
       <PackagePath>css\default.css</PackagePath>
       <Modified>2013-01-27T22:25:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-08-25T19:59:15.360</Modified>
+      <Modified>2013-08-26T07:58:15.648</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

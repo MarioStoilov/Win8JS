@@ -1,0 +1,13 @@
+D:\Solutions\WinJsStorage\WinJsStorage\bin\Debug\resources.pri
+D:\Solutions\WinJsStorage\WinJsStorage\bin\Debug\AppxManifest.xml
+D:\Solutions\WinJsStorage\WinJsStorage\bin\Debug\WinJsStorage.build.appxrecipe
+D:\Solutions\WinJsStorage\WinJsStorage\bld\Debug\priconfig.xml.intermediate
+D:\Solutions\WinJsStorage\WinJsStorage\bld\Debug\layout.resfiles.intermediate
+D:\Solutions\WinJsStorage\WinJsStorage\bld\Debug\resources.resfiles.intermediate
+D:\Solutions\WinJsStorage\WinJsStorage\bld\Debug\pri.resfiles.intermediate
+D:\Solutions\WinJsStorage\WinJsStorage\bld\Debug\priconfig.xml
+D:\Solutions\WinJsStorage\WinJsStorage\bld\Debug\layout.resfiles
+D:\Solutions\WinJsStorage\WinJsStorage\bld\Debug\resources.resfiles
+D:\Solutions\WinJsStorage\WinJsStorage\bld\Debug\pri.resfiles
+D:\Solutions\WinJsStorage\WinJsStorage\bld\Debug\LanguageQualifiers.txt
+D:\Solutions\WinJsStorage\WinJsStorage\bld\Debug\ProjectArchitectures.txt

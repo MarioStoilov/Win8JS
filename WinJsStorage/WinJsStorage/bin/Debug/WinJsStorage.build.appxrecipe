@@ -7,38 +7,44 @@
     <PackageArchitecture>neutral</PackageArchitecture>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="D:\Solutions\WinJsStorage\WinJsStorage\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\default.html">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\default.html">
       <PackagePath>default.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\images\logo.png">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\images\smalllogo.png">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\images\splashscreen.png">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\images\storelogo.png">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\js\default.js">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\js\default.js">
       <PackagePath>js\default.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\css\default.css">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\js\primesCalculator.js">
+      <PackagePath>js\primesCalculator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\js\primesWorker.js">
+      <PackagePath>js\primesWorker.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Solutions\WinJsStorage\WinJsStorage\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

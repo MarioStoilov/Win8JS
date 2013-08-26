@@ -1,1 +1,1 @@
-D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\WinJSVideoPlayer.jsproj;neutral
+C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\WinJSVideoPlayer.jsproj;neutral

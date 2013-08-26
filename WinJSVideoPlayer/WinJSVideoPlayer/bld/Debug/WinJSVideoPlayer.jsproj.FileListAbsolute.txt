@@ -7,3 +7,12 @@ D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\resources.resfiles
 D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\pri.resfiles
 D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\LanguageQualifiers.txt
 D:\Solutions\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\ProjectArchitectures.txt
+C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\bin\Debug\resources.pri
+C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\bin\Debug\AppxManifest.xml
+C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\bin\Debug\WinJSVideoPlayer.build.appxrecipe
+C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\priconfig.xml
+C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\layout.resfiles
+C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\resources.resfiles
+C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\pri.resfiles
+C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\LanguageQualifiers.txt
+C:\Users\Mario\Documents\GitHub\Win8JS\WinJSVideoPlayer\WinJSVideoPlayer\bld\Debug\ProjectArchitectures.txt
