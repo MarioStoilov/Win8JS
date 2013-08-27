@@ -7,62 +7,62 @@
     <PackageArchitecture>neutral</PackageArchitecture>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Solutions\WikiApp\WikiApp\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\css\default.css">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\pages\items\items.css">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\pages\items\items.css">
       <PackagePath>pages\items\items.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\pages\split\split.css">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\pages\split\split.css">
       <PackagePath>pages\split\split.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\images\logo.png">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\js\data.js">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\js\data.js">
       <PackagePath>js\data.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\js\default.js">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\js\default.js">
       <PackagePath>js\default.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\js\navigator.js">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\js\navigator.js">
       <PackagePath>js\navigator.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\pages\items\items.js">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\pages\items\items.js">
       <PackagePath>pages\items\items.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\pages\split\split.js">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\pages\split\split.js">
       <PackagePath>pages\split\split.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\pages\items\items.html">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\pages\items\items.html">
       <PackagePath>pages\items\items.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\pages\split\split.html">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\pages\split\split.html">
       <PackagePath>pages\split\split.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\default.html">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\default.html">
       <PackagePath>default.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Solutions\WikiApp\WikiApp\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

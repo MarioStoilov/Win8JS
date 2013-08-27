@@ -11,3 +11,12 @@ D:\Solutions\WikiApp\WikiApp\bld\Debug\resources.resfiles
 D:\Solutions\WikiApp\WikiApp\bld\Debug\pri.resfiles
 D:\Solutions\WikiApp\WikiApp\bld\Debug\LanguageQualifiers.txt
 D:\Solutions\WikiApp\WikiApp\bld\Debug\ProjectArchitectures.txt
+C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\bin\Debug\resources.pri
+C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\bin\Debug\AppxManifest.xml
+C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\bin\Debug\WikiApp.build.appxrecipe
+C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\bld\Debug\priconfig.xml
+C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\bld\Debug\layout.resfiles
+C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\bld\Debug\resources.resfiles
+C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\bld\Debug\pri.resfiles
+C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\bld\Debug\LanguageQualifiers.txt
+C:\Users\Mario\Documents\GitHub\Win8JS\WikiApp\WikiApp\bld\Debug\ProjectArchitectures.txt

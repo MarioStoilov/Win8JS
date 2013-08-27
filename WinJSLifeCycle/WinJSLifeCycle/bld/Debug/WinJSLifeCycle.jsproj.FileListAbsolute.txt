@@ -1,0 +1,9 @@
+D:\Solutions\WinJSLifeCycle\WinJSLifeCycle\bin\Debug\resources.pri
+D:\Solutions\WinJSLifeCycle\WinJSLifeCycle\bin\Debug\AppxManifest.xml
+D:\Solutions\WinJSLifeCycle\WinJSLifeCycle\bin\Debug\WinJSLifeCycle.build.appxrecipe
+D:\Solutions\WinJSLifeCycle\WinJSLifeCycle\bld\Debug\priconfig.xml
+D:\Solutions\WinJSLifeCycle\WinJSLifeCycle\bld\Debug\layout.resfiles
+D:\Solutions\WinJSLifeCycle\WinJSLifeCycle\bld\Debug\resources.resfiles
+D:\Solutions\WinJSLifeCycle\WinJSLifeCycle\bld\Debug\pri.resfiles
+D:\Solutions\WinJSLifeCycle\WinJSLifeCycle\bld\Debug\LanguageQualifiers.txt
+D:\Solutions\WinJSLifeCycle\WinJSLifeCycle\bld\Debug\ProjectArchitectures.txt
